@@ -1,7 +1,7 @@
 # wwFourierFilterKernels
 Python code for 2D Fourier Filtering Kernels
 
-![Many Filters](https://github.com/bemoregt/wwFourierFilterKernels/blob/master/test.png)
+![Many Filters](https://github.com/bemoregt/wwFourierFilterKernels/blob/master/kernel6.png)
 
 ### Algoritm
 - 6 Fourier Filtering Kernels
