@@ -5,7 +5,7 @@ Python code for 2D Fourier Filtering Kernels
 
 ### Algoritm
 - 6 Fourier Filtering Kernels
-- Fourier Filtering: Image> FFT > Hadamard Product of Kernels > iFFT
+- Fourier Filtering: ImageIn > FFT2 > Hadamard Product of Kernels > iFFT2 > ImageOut
 - LoG: Laplacian of Guassian
 - DoG: Defference of Gaussian
 
